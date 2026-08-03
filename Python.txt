@@ -1,0 +1,224 @@
+📘 Python Notes – Part 1
+Python Basics for Data Analytics
+
+1. What is Python?
+Definition
+Python is a high-level, easy-to-read programming language. It is simple to learn and is widely used for Data Analytics, Data Science, Machine Learning, Web Development, and Automation.
+Example
+print("Hello, World!")
+Output
+Hello, World!
+2. print() Function
+Definition
+The print() function is used to display output on the screen.
+Example
+print("My name is Riya")
+Output
+My name is Riya
+
+
+
+3. Comments
+Definition
+Comments are used to write notes in a Python program. Python ignores comments during execution.
+Comments start with #.
+Example
+# This is a comment
+print("Hello")
+Output
+Hello
+
+4. Variables
+Definition
+A variable is a container used to store data. It allows us to save information that can be used later in the program.
+Syntax
+variable_name = value
+Example
+name = "Riya"
+age = 22
+city = "Noida"
+
+print(name)
+print(age)
+print(city)
+Output
+Riya
+22
+Noida
+
+5. Variable Naming Rules
+Definition
+A variable name should be meaningful and follow Python naming rules.
+Rules
+Start with a letter or underscore (_)
+Cannot start with a number
+No spaces are allowed
+Special characters are not allowed except _
+Variable names are case-sensitive
+Correct Examples
+student_name
+age
+salary1
+_city
+Wrong Examples (hum aise variable ko nhi likh shakte )
+1name
+student-name
+my name
+
+6. Data Types
+A. String (str)
+Definition
+A String is used to store text or characters.
+Example
+name = "Riya"
+print(type(name))
+Output
+<class 'str'>
+
+B. Integer (int)
+Definition
+An Integer is a whole number without a decimal point.
+Example
+age = 22
+print(type(age))
+Output
+<class 'int'>
+
+C. Float (float)
+Definition
+A Float is a number that contains a decimal point.
+Example
+salary = 25000.50
+print(type(salary))
+Output
+<class 'float'>
+
+D. Boolean (bool)
+Definition
+A Boolean stores only two values: True or False.
+Example
+is_student = True
+print(type(is_student))
+Output
+<class 'bool'>
+
+7. type() Function
+Definition
+The type() function is used to check the data type of a variable.
+Example
+age = 22
+
+print(type(age))
+Output
+<class 'int'>
+
+8. Multiple Variables
+Definition
+Python allows us to create multiple variables to store different types of data.
+Example
+name = "Riya"
+age = 22
+city = "Noida"
+
+print(name)
+print(age)
+print(city)
+Output
+Riya
+22
+Noida
+
+
+
+9. Printing Multiple Values
+Definition
+You can print more than one value in a single print() statement.
+Example
+name = "Riya"
+age = 22
+
+print(name, age)
+Output
+Riya 22
+
+10. Updating a Variable
+Definition
+The value of a variable can be changed at any time.
+Example
+age = 22
+
+age = 23
+
+print(age)
+Output
+23
+
+
+
+11. Case Sensitivity
+Definition
+Python is case-sensitive. This means name and Name are treated as different variables.
+Example
+name = "Riya"
+Name = "Mishra"
+
+print(name)
+print(Name)
+Output
+Riya
+Mishra
+
+12. input() Function
+Definition
+The input() function is used to take input from the user.
+Example
+name = input("Enter your name: ")
+
+print(name)
+Output
+Enter your name: Riya
+Riya
+
+
+
+13. Simple Input Program
+Example
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+
+print("Name:", name)
+print("Age:", age)
+Output
+Enter your name: Riya
+Enter your age: 22
+
+Name: Riya
+Age: 22
+
+Quick Summary
+Topic
+Definition
+Python
+An easy programming language used for Data Analytics and many other fields.
+print()
+Displays output on the screen.
+Comment
+A note in the code ignored by Python.
+Variable
+Stores data in memory.
+String
+Stores text.
+Integer
+Stores whole numbers.
+Float
+Stores decimal numbers.
+Boolean
+Stores True or False.
+type()
+Checks the data type of a variable.
+input()
+Takes input from the user.
+
+
+
+
