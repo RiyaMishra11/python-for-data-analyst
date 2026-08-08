@@ -316,8 +316,117 @@ Python has different types of operators:
 Definition
 
 Arithmetic operators are used to perform mathematical calculations.
+Arithmetic Operators:- (Addition ➕ ) , (Subtraction ➖) , (Multiplication ✖️ ) , (Division ➗ ) ,(Modulus/Remainder %) , (Floor Division // )  , (Power **)
 
+──────────────────────────────────────
 
+Addition +
+Definition
+
+The + operator is used to add two values.
+
+a = 10
+b = 5
+print(a + b)
+
+Output: 15
+
+──────────────────────────────────────
+
+Subtraction -
+Definition
+
+The - operator is used to subtract one value from another.
+
+a = 10
+b = 5
+print(a - b)
+
+Output: 5
+
+──────────────────────────────────────
+
+Multiplication *
+Definition
+
+The * operator is used to multiply values.
+
+a = 10
+b = 5
+print(a * b)
+
+Output: 50
+
+──────────────────────────────────────
+Division /
+Definition
+
+The / operator is used to divide two numbers.
+
+a = 10
+b = 3
+print(a / b)
+
+Output: 3.3333333333333335
+
+Important Note:- Normal division / usually returns a float.
+
+──────────────────────────────────────
+
+Modulus %
+Definition
+
+The modulus operator % returns the remainder after division.
+
+a = 10
+b = 3
+print(a % b)
+
+Output: 1
+Because:
+
+10 ÷ 3 = 3 remainder 1
+
+──────────────────────────────────────
+loor Division //
+Definition
+
+Floor division divides two numbers and returns the whole-number part of the result.
+
+a = 10
+b = 3
+print(a // b)
+
+Output: 3
+
+Normal division:
+
+10 / 3
+
+Result: 3.33333
+
+──────────────────────────────────────
+
+Floor division:
+
+10 // 3
+
+Result: 3
+
+──────────────────────────────────────
+
+Power **
+Definition
+
+The power operator is used to raise a number to a power.
+
+print(2 ** 3)
+
+Output: 8
+Because:
+2 × 2 × 2 = 8
+
+──────────────────────────────────────
 
 
 
