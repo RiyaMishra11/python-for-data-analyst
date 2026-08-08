@@ -2,11 +2,12 @@
           📘 PYTHIN NOTES FOR DATA ANALYSIS
 ╚══════════════════════════════════════════════════════╝
 
-Part 1-----
-──────────────────────────────────────
 
-Python Basics for Data Analytics
-──────────────────────────────────────
+╔══════════════════════════════════════════════════════╗
+   Part 1-----: ( Python Basics for Data Analytics)
+╚══════════════════════════════════════════════════════╝
+
+
 
 
 1. What is Python?
@@ -48,6 +49,7 @@ Output
 Hello
 
 ──────────────────────────────────────
+
 4. Variables
 Definition
 
@@ -71,6 +73,7 @@ Riya
 Noida
 
 ──────────────────────────────────────
+
 5. Variable Naming Rules
 Definition
 
@@ -94,6 +97,7 @@ student-name
 my name
 
 ──────────────────────────────────────
+
 6. Data Types
 
 A. String (str)
@@ -122,6 +126,7 @@ Output
 <class 'int'>
 
 ──────────────────────────────────────
+
 C. Float (float)
 Definition
 
@@ -135,6 +140,7 @@ Output
 <class 'float'>
 
 ──────────────────────────────────────
+
 D. Boolean (bool)
 Definition
 
@@ -148,6 +154,7 @@ Output
 <class 'bool'>
 
 ──────────────────────────────────────
+
 7. type() Function
 Definition
 The type() function is used to check the data type of a variable.
@@ -162,6 +169,7 @@ Output
 
 
 ──────────────────────────────────────
+
 8. Multiple Variables
 Definition
 
@@ -251,6 +259,7 @@ Riya
 
 
 ──────────────────────────────────────
+
 13. Simple Input Program
 
 Example
@@ -268,6 +277,45 @@ Name: Riya
 Age: 22
 
 ──────────────────────────────────────
+
+
+╔══════════════════════════════════════════════════════╗
+   Part 2-----: (Operators & Type Casting )
+╚══════════════════════════════════════════════════════╝
+
+1. What are Operators?
+Definition
+
+Operators are special symbols used to perform operations on values and variables.
+
+Example
+a = 10
+b = 5
+
+print(a + b)
+
+Output:
+
+15
+
+
+──────────────────────────────────────
+
+Python has different types of operators:
+
+1: Arithmetic Operators
+2: Comparison Operators
+3: Logical Operators
+4: Assignment Operators
+5: Modulus Operator
+6: Floor Division Operator
+7: Membership Operators
+
+──────────────────────────────────────
+1. Arithmetic Operators
+Definition
+
+Arithmetic operators are used to perform mathematical calculations.
 
 
 
