@@ -1,7 +1,11 @@
 
 →← MODULE -1 PYTHON FUNDAMENTALS →←
+─────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────
 
 →← LECTURE -1 →←
+───────────────────────
+
 PYTHON :- PYTHON IS A HIGH-LEVEL , INTERPRETED, GENERAL-PURPOSE PROGRAMMING LANGUAGE WHICH IS EASY TO READ AND UNDERSTAND .
 
 CREATOR OF PYTHON :- GUIDO VAN ROSSUM
@@ -15,9 +19,10 @@ BECAUSE OF , 1) EASY SYNTAX ,  2) HUGE COMMUNITY  ,
 3) THOUSANDS OF LIBRARIES , 4) CROSS PLATFORM
 
 
-
+─────────────────────────────────────────────────────────────────
 
 →← LECTURE -2 →←
+───────────────────────
 COMPUTER MEMORY :- WHEN A PROGRAM RUNS COMPUTER STORES THEIR DATA INTO RAM(MEMORY) .
 
 VARIABLE :- VARIABLE IS A NAME GIVEN TO A MEMORY LOCATION .
@@ -50,7 +55,10 @@ PRINT(ISINSTANCE(AGE,INT))
 OUTPUT :- TRUE
 
 
+─────────────────────────────────────────────────────────────────
+
 →← LECTURE -3 →← 
+───────────────────────
 ‘SEP’ PARAMETER -: MEANS SEPARATOR PARAMETER { “ ” }
 EX - PRINT (“APPLE”, “BANANA” , “MANGO” , SEP= “-” )
 OUTPUT - APPLE-BANANA-MANGO
@@ -86,6 +94,7 @@ IMPLICIT TYPE CONVERSION :- MEANS AUTOMATIC CONVERSION .
 EXPLICIT TYPE CONVERSION :- MEANS MANUAL CONVERSION . 
 
 
+─────────────────────────────────────────────────────────────────
 
 
 
