@@ -96,6 +96,17 @@ EXPLICIT TYPE CONVERSION :- MEANS MANUAL CONVERSION .
 
 ─────────────────────────────────────────────────────────────────
 
+→← LECTURE- 4 →← OPERATORS →←
+OPERATORS IS A SYMBOL WHICH PERFORMS OPERATIONS ON VALUES(OPERANDS) .
+
+TYPES OF OPERATORS :- 
+ARITHMETIC → (+,-,*,/,//,%,**)
+ASSIGNMENT → (=,+=,-=,*=,/=)
+COMPARISON → (==,!=,>,<,>=,<=)
+LOGICAL → (AND , OR , NOT)
+MEMBERSHIP → (IN , NOT IN)
+IDENTITY → (IS , IS NOT)
+BITWISE → (&,|,^,~,<<,>>)
 
 
 
