@@ -23,6 +23,7 @@ BECAUSE OF , 1) EASY SYNTAX ,  2) HUGE COMMUNITY  ,
 
 →← LECTURE -2 →←
 ───────────────────────
+
 COMPUTER MEMORY :- WHEN A PROGRAM RUNS COMPUTER STORES THEIR DATA INTO RAM(MEMORY) .
 
 VARIABLE :- VARIABLE IS A NAME GIVEN TO A MEMORY LOCATION .
@@ -59,6 +60,7 @@ OUTPUT :- TRUE
 
 →← LECTURE -3 →← 
 ───────────────────────
+
 ‘SEP’ PARAMETER -: MEANS SEPARATOR PARAMETER { “ ” }
 EX - PRINT (“APPLE”, “BANANA” , “MANGO” , SEP= “-” )
 OUTPUT - APPLE-BANANA-MANGO
@@ -97,6 +99,8 @@ EXPLICIT TYPE CONVERSION :- MEANS MANUAL CONVERSION .
 ─────────────────────────────────────────────────────────────────
 
 →← LECTURE- 4 →← OPERATORS →←
+───────────────────────────────
+
 OPERATORS IS A SYMBOL WHICH PERFORMS OPERATIONS ON VALUES(OPERANDS) .
 
 TYPES OF OPERATORS :- 
@@ -119,7 +123,14 @@ NOT
 AND
 OR
 
-→← LECTURE-5 →← STRINGS 
+
+
+
+─────────────────────────────────────────────────────────────────
+
+→← LECTURE-5 →← STRINGS
+───────────────────────────────
+
 STRINGS IS A SEQUENCE OF CHARACTERS ENCLOSED INSIDE QUOTES .
 EX : NAME = “PRASHANT”
 
@@ -183,7 +194,11 @@ EX :- name = “Prashant”
          print(f “My name is {name} and I am {age} year old .”)
 
 
+
+─────────────────────────────────────────────────────────────────
+
 →← LIST { MASTERCLASS - 1 } →←
+───────────────────────────────
 
 
 
