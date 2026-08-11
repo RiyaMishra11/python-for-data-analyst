@@ -108,6 +108,17 @@ MEMBERSHIP → (IN , NOT IN)
 IDENTITY → (IS , IS NOT)
 BITWISE → (&,|,^,~,<<,>>)
 
+OPERATOR PRECEDENCE →: 
+EASY MEMORY TRICK (HIGHEST → LOWEST)
+() PARENTHESES
+** 
+*,/,//,%
++,-
+COMPARISON (<,>,==,etc)
+NOT
+AND
+
+
 
 
 
