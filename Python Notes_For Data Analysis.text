@@ -156,6 +156,36 @@ CHECK THAT THE GIVEN STRING IS CONSIDER ONLY LOWERCASE LETTERS .
 
 isuppeer() :-  CHECK THAT THE GIVEN STRING IS CONSIDER ONLY UPPERCASE LETTERS .
 
+isspace() :- 
+GIVEN INPUT CONSIDERS SPACE OR NOT .
+
+istitle() :- 
+CHECK THAT THE GIVEN STRING IS IN THE FORM OF TITLE. 
+
+casefold() :- 
+ADVANCE VERSION OF lower() .
+IT IS BETTER FOR UNICODE TEXT.
+
+STRING FORMATTING :- 
+
+METHOD 1 (OLD) :- 
+EX :- name = “Prashant”
+print(“Hello” , name)
+
+METHOD 2 (.format()) :- 
+EX :- name = “Prashant”
+Age = 21
+print(“My name is {} and I am {} years old .”.format(name,Age))
+
+METHOD 3 (f-string) :- 
+EX :- name = “Prashant”
+         Age = 21
+         print(f “My name is {name} and I am {age} year old .”)
+
+
+→← LIST { MASTERCLASS - 1 } →←
+
+
 
 
 
