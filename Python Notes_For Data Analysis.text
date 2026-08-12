@@ -216,6 +216,14 @@ Output:
 ['Apple', 'Banana', 'Orange']
 
 
+EXTEND () :- IT ADDS MULTIPLE ELEMENTS IN LIST AT END .
+EX:- fruits = ["Apple", "Banana"]
+fruits.extend(["Orange", "Mango"])
+print(fruits)
+Output : 
+['Apple', 'Banana', 'Orange', 'Mango']
+
+
 
 
 
