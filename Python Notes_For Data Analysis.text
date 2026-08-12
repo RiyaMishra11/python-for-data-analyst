@@ -200,20 +200,6 @@ EX :- name = “Prashant”
 →← LIST { MASTERCLASS - 1 } →←
 ───────────────────────────────
 
-LIST IS AN ORDERED , MUTABLE COLLECTION OF MULTIPLE ITEMS .
-
-LIST vs STRING :- 
-LIST MUTABLE WHILE STRING IS IMMUTABLE
-STRING IS COLLECTION OF CHARACTERS WHILE LIST IS COLLECTION OF ANY OBJECTS
-STRING WROTE INSIDE THE QUOTES “” WHILE LIST IS WRITTEN INSIDE SQUARE BRACKET [] 
-
-→← LIST METHODS →← 
-APPEND () :- IT ADD AN ELEMENT IN THE LIST AT END .
-EX:- fruits = ["Apple", "Banana"]
-fruits.append("Orange")
-print(fruits)
-Output:
-['Apple', 'Banana', 'Orange']
 
 
 EXTEND () :- IT ADDS MULTIPLE ELEMENTS IN LIST AT END .
@@ -246,6 +232,7 @@ print(numbers)
 OUTPUT :- 
 [10,30]
 
+
 🎯 remove() vs pop()
 REMOVE() FUNCTION REMOVE FROM VALUE WHILE POP() FUNCTION REMOVE FROM INDEX 
 REMOVE() DOESN’T RETURN ANY VALUE WHILE POP() RETURN REMOVED ITEM.
@@ -269,7 +256,9 @@ OUTPUT :-
 list1 = [10,20,30]
 list2 = [100,20,30]
 
-→ ASSIGNMENT (=) vs COPY()
+
+
+##→ ASSIGNMENT (=) vs COPY()
 👍ASSIGNMENT 
 list2 = list1
 list1 → [10,20,30] ← list 2   (Same Object)
@@ -289,10 +278,14 @@ print(nums)
 OUTPUT :- 
 [10,20,50,90]
 
+
+
 Descending Sort : 
 nums.sort(reverse=True)
 OUTPUT:- 
 [90,50,20,10]
+
+
 
 String Sorting : 
 EX:- fruits = ["Mango","Apple","Orange"]
@@ -307,6 +300,7 @@ nums.reverse()
 print(nums)
 OUTPUT :- 
 [30,20,10]
+
 
 NOTE:- nums[::-1] it gives new reversed view while reverse() just reversed the original list.
 
@@ -323,7 +317,9 @@ OUTPUT :-
 1
 
 
+─────────────────────────────────────────────────────────────────
 
+→← LECTURE 10 →←Advanced List Operations & Built-in Functions →←
 
 
 
