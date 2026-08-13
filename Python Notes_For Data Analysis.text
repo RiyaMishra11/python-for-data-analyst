@@ -1,5 +1,5 @@
 
-→← MODULE -1 PYTHON FUNDAMENTALS →←
+→← MODULE -1 PYTHON FUNDAMENTALS →← 
 ─────────────────────────────────────────────────────────────────
 ─────────────────────────────────────────────────────────────────
 
@@ -360,6 +360,11 @@ SYNTAX:- PRINT(NUMS * 3)
 
 MEMBERSHIP :- IT IS AN OPERATOR WHICH CHECKS THAT THE ASKED VALUE IS PRESENT INTO THE LIST OR NOT.
 TWO TYPES :- IN & NOT IN
+
+
+
+→← Lecture 11 Tuples (Immutable Collections) →←
+
 
 
 
