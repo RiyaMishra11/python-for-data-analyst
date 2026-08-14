@@ -392,6 +392,12 @@ student = (“Prashant”,20, “BCA”)
 : Three values pack into a tuple.
 
 
+→ Unpacking : 
+name,age,course = student
+print(name)
+print(age)
+print(course)
+
 
 
 
