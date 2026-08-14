@@ -384,6 +384,13 @@ How to create single element tuple :
 num = (10) → wrong , because it is ‘int’ type of data
 num = (10,) → correct , now it is ‘tuple’ type of data
 
+→ Indexing : Same as List.
+→ Slicing : Same as List.
+
+→ Packing : 
+student = (“Prashant”,20, “BCA”)
+: Three values pack into a tuple.
+
 
 
 
