@@ -398,6 +398,7 @@ print(name)
 print(age)
 print(course)
 
+Tuple have only two methods , 1. count() & 2. index()
 
 
 
