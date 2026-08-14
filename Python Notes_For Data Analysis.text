@@ -367,6 +367,13 @@ TWO TYPES :- IN & NOT IN
 →← Lecture 11 Tuples (Immutable Collections) →←
 ───────────────────────────────────────────────────
 
+Tuples :- Tuple is like List , it is also a collection . We can’t change elements once created . This property called “Immutable”.
+Example :- 
+fruits = (“Apple”, “Banana” , “Orange”)
+print(fruits)
+Output :- 
+(‘Apple’, ‘Banana’, ‘Orange’)
+
 
 
 
