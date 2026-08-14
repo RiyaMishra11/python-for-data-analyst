@@ -380,6 +380,10 @@ List vs Tuple
 3 List is slow while Tuple is faster.
 4 List need much memory but Tuple need less memory.
 
+How to create single element tuple : 
+num = (10) → wrong , because it is ‘int’ type of data
+num = (10,) → correct , now it is ‘tuple’ type of data
+
 
 
 
