@@ -374,6 +374,12 @@ print(fruits)
 Output :- 
 (‘Apple’, ‘Banana’, ‘Orange’)
 
+List vs Tuple 
+1 List is mutable while tuple is immutable.
+2 List uses [] but tuple uses ().
+3 List is slow while Tuple is faster.
+4 List need much memory but Tuple need less memory.
+
 
 
 
