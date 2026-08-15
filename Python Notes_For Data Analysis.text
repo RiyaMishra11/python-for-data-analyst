@@ -423,6 +423,9 @@ print(t)
 Output : 
 (10,20,30)
 
+b) Tuple → List
+ Ex:
+ t = (10,20,30)
 
 
 
