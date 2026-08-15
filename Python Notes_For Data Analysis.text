@@ -417,6 +417,11 @@ Output :
 a)  Tuple Conversion :-  
     List → Tuple
     Ex: 
+    nums = [10,20,30]
+t = tuple(nums)
+print(t)
+Output : 
+(10,20,30)
 
 
 
