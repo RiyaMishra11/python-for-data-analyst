@@ -409,6 +409,10 @@ Ex: matrix = (
 (3,4)
 )
 
+Access : 
+print(matrix[1][0])
+Output : 
+3
 
 
 
