@@ -403,6 +403,12 @@ Tuple have only two methods , 1. count() & 2. index()
 → Membership operators : Same as List. (in , not in)
 → Built-In Functions : Same as List (len , min , max , sum)
 
+Nested Tuple : 
+Ex: matrix = (
+(1,2),
+(3,4)
+)
+
 
 
 
