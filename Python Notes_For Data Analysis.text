@@ -400,6 +400,9 @@ print(course)
 
 Tuple have only two methods , 1. count() & 2. index()
 
+→ Membership operators : Same as List. (in , not in)
+→ Built-In Functions : Same as List (len , min , max , sum)
+
 
 
 
