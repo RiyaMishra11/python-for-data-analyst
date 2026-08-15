@@ -414,6 +414,9 @@ print(matrix[1][0])
 Output : 
 3
 
+a)  Tuple Conversion :-  
+    List → Tuple
+    Ex: 
 
 
 
