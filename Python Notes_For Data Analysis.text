@@ -427,6 +427,11 @@ b) Tuple → List
  Ex:
  t = (10,20,30)
 
+nums = list(t)
+print (nums)
+Output: 
+[10,20,30]
+
 
 
 
