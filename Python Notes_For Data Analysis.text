@@ -457,9 +457,9 @@ numbers = {10,20,30,40,50}
 print(numbers)
 
 Notes :- 
-List → duplicates allowed
-Tuple → duplicates allowed
-Set → duplicates not allowed
+a) List → duplicates allowed
+b) Tuple → duplicates allowed
+c) Set → duplicates not allowed
 
 
 
