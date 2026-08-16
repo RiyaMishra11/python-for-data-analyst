@@ -446,6 +446,12 @@ Example :
 numbers = {10,20,30,40,50}
 print(numbers)
 
+→ Duplicate Values 
+numbers = {10,20,30,20,30}
+print(numbers)
+Output :- 
+{10,20,30} → Python automatically removes the duplicate values.
+
 
 
 
