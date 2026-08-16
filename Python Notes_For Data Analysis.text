@@ -452,6 +452,10 @@ print(numbers)
 Output :- 
 {10,20,30} → Python automatically removes the duplicate values.
 
+Example : 
+numbers = {10,20,30,40,50}
+print(numbers)
+
 
 
 
