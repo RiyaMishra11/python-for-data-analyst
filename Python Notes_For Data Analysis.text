@@ -435,6 +435,13 @@ Output:
 
 →← Lecture 12 →← Sets in Python →← 
 
+Sets :- Set is a collection which is : 
+Unordered 
+Which doesn’t allow duplicate value
+It is mutable
+It does not support indexing
+It is made using curly brackets { }
+
 
 
 
