@@ -442,6 +442,10 @@ Sets :- Set is a collection which is :
 4. It does not support indexing
 5. It is made using curly brackets { }
 
+Example : 
+numbers = {10,20,30,40,50}
+print(numbers)
+
 
 
 
