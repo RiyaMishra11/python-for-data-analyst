@@ -436,11 +436,11 @@ Output:
 →← Lecture 12 →← Sets in Python →← 
 
 Sets :- Set is a collection which is : 
-Unordered 
-Which doesn’t allow duplicate value
-It is mutable
-It does not support indexing
-It is made using curly brackets { }
+1. Unordered 
+2. Which doesn’t allow duplicate value
+3. It is mutable
+4. It does not support indexing
+5. It is made using curly brackets { }
 
 
 
