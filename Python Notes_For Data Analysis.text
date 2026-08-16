@@ -432,8 +432,10 @@ print (nums)
 Output: 
 [10,20,30]
 
+─────────────────────────────────────────────────────────────────────────────────────
 
 →← Lecture 12 →← Sets in Python →← 
+───────────────────────────────────────────────────
 
 Sets :- Set is a collection which is : 
 1. Unordered 
@@ -461,8 +463,9 @@ a) List → duplicates allowed
 b) Tuple → duplicates allowed
 c) Set → duplicates not allowed
 
-→ Empty Set
-Example :- 
+my_set = {} → it is not an empty set , actually it is an empty dictionary.
+Correct form of empty set : 
+my_set = set()
 
 
 
