@@ -461,6 +461,8 @@ a) List → duplicates allowed
 b) Tuple → duplicates allowed
 c) Set → duplicates not allowed
 
+→ Empty Set
+Example :- 
 
 
 
