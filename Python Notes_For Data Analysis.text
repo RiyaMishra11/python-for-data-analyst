@@ -463,7 +463,7 @@ a) List → duplicates allowed
 b) Tuple → duplicates allowed
 c) Set → duplicates not allowed
 
-my_set = {} → it is not an empty set , actually it is an empty dictionary.
+
 Correct form of empty set : 
 my_set = set()
 
