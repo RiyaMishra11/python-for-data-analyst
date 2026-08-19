@@ -471,6 +471,13 @@ my_set = set()
 → Indexing
 Set does not perform indexing operations because it is an unordered collection.
 
+→ add() 
+To add one element into the set use “add()”
+Example: 
+fruits = {“Apple” , “Banana”}
+fruits.add(“Orange”)
+print(fruits)
+
 
 
 
