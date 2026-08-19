@@ -485,6 +485,12 @@ fruits = {“Apple” , “Banana”}
 fruits.update([“Orange”, “Mango” , “Guava”])
 print(fruits)
 
+→ remove()
+To remove any element from set use “remove()”
+Example : 
+fruits = {“Apple” , “Banana” , “Orange”}
+fruits.remove(“Banana”)
+print(fruits)
 
 
 
