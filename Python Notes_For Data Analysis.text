@@ -478,6 +478,12 @@ fruits = {“Apple” , “Banana”}
 fruits.add(“Orange”)
 print(fruits)
 
+→ update()
+To add multiple elements into the set use “update()”
+Example : 
+fruits = {“Apple” , “Banana”}
+fruits.update([“Orange”, “Mango” , “Guava”])
+print(fruits)
 
 
 
