@@ -492,6 +492,8 @@ fruits = {“Apple” , “Banana” , “Orange”}
 fruits.remove(“Banana”)
 print(fruits)
 
+Note:- If element does not exist remove will through error.
+
 
 
 
