@@ -494,6 +494,9 @@ print(fruits)
 
 Note:- If element does not exist remove will through error.
 
+→ discard()
+This is also used to remove elements from a set.
+The discard function does not throw an error if the element is not present into the set like remove().
 
 
 
