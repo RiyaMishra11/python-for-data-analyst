@@ -498,6 +498,13 @@ Note:- If element does not exist remove will through error.
 This is also used to remove elements from a set.
 The discard function does not throw an error if the element is not present into the set like remove().
 
+→ pop()
+The pop function removes one element from the set.
+Example : 
+numbers = {10,20,30,40,50}
+numbers.pop()
+print(numbers)
+
 
 
 
