@@ -512,6 +512,7 @@ numbers = {10,20,30,40}
 numbers.clear()
 print(numbers)
 
+→ Membership Operator : Same as list and tuple (in&not in)
 
 
 
