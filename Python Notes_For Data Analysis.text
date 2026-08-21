@@ -515,6 +515,8 @@ print(numbers)
 → Membership Operator : Same as list and tuple (in&not in)
 
 → Set Operations 
+Suppose : 
+A = {1,2,3,4}
 
 
 
