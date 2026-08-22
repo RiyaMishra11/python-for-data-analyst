@@ -520,6 +520,7 @@ A = {1,2,3,4}
 B = {3,4,5,6}
 👍Union : Return unique elements from both sets.
 Example : print(A | B)
+👍Union : Return unique elements from both sets.
 
 
 
