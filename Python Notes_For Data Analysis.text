@@ -532,6 +532,8 @@ print(A.union(B))
 Example : print(A & B)
 Output : {3 , 4}
 Using Method : 
+print(A.union(B))
+
 
 
 
