@@ -530,6 +530,7 @@ print(A.union(B))
 
 👍Intersection : Return common elements from both sets.
 Example : print(A & B)
+Output : {3 , 4}
 
 
 
