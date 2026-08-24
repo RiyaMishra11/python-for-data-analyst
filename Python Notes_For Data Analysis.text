@@ -539,7 +539,7 @@ present into B.
 Example : print(A - B)
 Output : {1,2}
 Reverse : print(B - A)
-
+Reverse : print(B - A)
 
 
 
