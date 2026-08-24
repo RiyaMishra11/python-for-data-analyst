@@ -541,6 +541,6 @@ Output : {1,2}
 Reverse : print(B - A)
 Reverse : print(B - A)
 
-
+👍Symmetric Difference : Return those elements which are present 
 
 
