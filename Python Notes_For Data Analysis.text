@@ -537,7 +537,7 @@ print(A.union(B))
 👍Difference : Return elements which are present into A but don't 
 present into B.
 Example : print(A - B)
-
+Output : {1,2}
 
 
 
