@@ -534,7 +534,7 @@ Output : {3 , 4}
 Using Method : 
 print(A.union(B))
 
-
+👍Difference : Return elements which are present into A but don't 
 
 
 
