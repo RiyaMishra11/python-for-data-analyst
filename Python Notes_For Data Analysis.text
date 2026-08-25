@@ -561,3 +561,5 @@ True
 → Superset 
 If elements of set B are present into the set A then it is called as B
 is the superset of A.
+Example : 
+A = {1,2,3,4,5}
