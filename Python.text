@@ -10,23 +10,7 @@
 
 
 
-1. What is Python?
-Definition
 
-Python is a high-level, easy-to-read programming language. It is simple to learn and is widely used for Data Analytics, Data Science, Machine Learning, Web Development, and Automation.
-
-Example
-print("Hello, World!")
-
-Output
-Hello, World!
-
-2. print() Function
-
-Definition
-The print() function is used to display output on the screen.
-
-Example
 print("My name is Riya")
 
 Output
