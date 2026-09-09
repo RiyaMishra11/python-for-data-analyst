@@ -450,3 +450,14 @@ print(2 ** 3)
 Output: 8
 Because:
 2 × 2 × 2 = 8
+
+Power **
+Definition
+
+The power operator is used to raise a number to a power.
+
+print(2 ** 3)
+
+Output: 8
+Because:
+2 × 2 × 2 = 8
